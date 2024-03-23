@@ -1,5 +1,5 @@
 altair
-anaconda-client==1.11.3
+anaconda-client
 appdirs==1.4.4
 asttokens==2.4.1
 atomicwrites==1.4.0
