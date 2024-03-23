@@ -9,7 +9,6 @@ brotlipy==0.7.0
 cachetools==5.3.3
 clyent
 comm==0.2.0
-conda-verify
 constantly==15.1.0
 cssselect==1.1.0
 daal4py==2023.1.1
