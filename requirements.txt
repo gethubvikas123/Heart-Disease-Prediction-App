@@ -9,7 +9,7 @@ brotlipy==0.7.0
 cachetools==5.3.3
 clyent
 comm==0.2.0
-conda-repo-cli==1.0.75
+conda-repo-cli==1.0.20
 conda-verify==3.4.2
 constantly==15.1.0
 cssselect==1.1.0
