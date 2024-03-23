@@ -23,7 +23,7 @@ col1, col2 = st.columns([2, 3])
 
 # Displaying dashboard title
 with col2:
-    heart_logo_url = r"C:\Users\Welcome\Desktop\heart_disease_predict\Image_A1-9-576x486.jpg"
+    heart_logo_url = r"Image_A1-9-576x486.jpg"
     st.image(heart_logo_url, width=350) 
 
 # Displaying logo
