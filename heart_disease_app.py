@@ -5,7 +5,7 @@ import streamlit as st
 
 
 
-model = joblib.load(r'heart_disease_prediction_model.joblib', mmap_mode=None)
+model = joblib.load(r'heart_disease_prediction_model.joblib')
 
 
 def predict_heart_disease(input_data):
