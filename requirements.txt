@@ -1,5 +1,5 @@
 altair
-curl-config
+curl-config==8.6.0
 anaconda-client
 appdirs==1.4.4
 asttokens==2.4.1
