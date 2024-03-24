@@ -28,7 +28,6 @@ jsonpointer==2.1
 jupyter_client==8.6.0
 jupyter_core==5.5.1
 matplotlib-inline==0.1.6
-mkl-service
 mpmath==1.2.1
 munkres==1.1.4
 mypy-extensions==0.4.3
